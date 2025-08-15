@@ -1,1 +1,1 @@
-export default class Damir {}
+export default class Temirlan {}
